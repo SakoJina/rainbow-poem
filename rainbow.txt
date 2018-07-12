@@ -3,5 +3,6 @@ Rainbow
 Blue
 Red
 Green
+Yellow
 Pink
 Purple
